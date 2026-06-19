@@ -36,16 +36,24 @@ BlogHub is a modern community-driven blogging platform built with Laravel. It en
 - Mobile-Friendly Layout
 - Modern and Intuitive Experience
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
+### Backend
 - Laravel 12
-- PHP
+- PHP 8+
 - MySQL
+
+### Frontend
 - Blade Templates
 - Bootstrap 5
 - Bootstrap Icons
+- CSS3
 - JavaScript
+
+### Development Tools
 - Vite
+- Composer
+- Git & GitHub
 
 ## 📸 Highlights
 
