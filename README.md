@@ -54,7 +54,7 @@ BlogHub is a modern community-driven blogging platform built with Laravel. It en
 - Vite
 - Composer
 - Git & GitHub
----
+
 ## 📸 Highlights
 
 ### Home Page
@@ -99,6 +99,6 @@ BlogHub is a modern community-driven blogging platform built with Laravel. It en
 
 **Anushka Gupta**
 
----
+
 
 ⭐ If you found this project interesting, consider giving it a star!
